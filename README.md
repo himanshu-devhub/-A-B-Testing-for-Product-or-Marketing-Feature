@@ -15,9 +15,9 @@ This project conducts an A/B test to determine whether a new product or marketin
 - **Significance Level:** α = 0.05
 
 ## 📊 Key Findings
-- Control Group (A) Conversion Rate: X.XX%
-- Treatment Group (B) Conversion Rate: Y.YY%
-- P-value: 0.0XYZ
+- Control Group (A) Conversion Rate: 3.7428
+- Treatment Group (B) Conversion Rate: -2.0249
+- P-value:  0.0530
 - Decision: **(e.g., Launch Feature ✅ or Do Not Launch ❌)**
 
 ## 📁 Files Included
